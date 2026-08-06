@@ -17,3 +17,7 @@ Build an AI-first operating system for managing knowledge, projects, automation,
 ## Status
 
 🚧 Early Development
+
+## Goals
+
+Build an AI Operating System from scratch.
