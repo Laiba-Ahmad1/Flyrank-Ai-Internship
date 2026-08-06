@@ -23,7 +23,7 @@ Atlas AI Operating System
 
 Use Conventional Commits.
 
-Examples:
+Examples are:
 
 feat:
 fix:
