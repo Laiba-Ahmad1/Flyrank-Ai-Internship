@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/UniveristyLaiba/Flyrank/Assigmnet1/assignment-2/app/settings/page.js"],"sourcesContent":["'use client';\r\n\r\nimport SettingsForm from './SettingsForm';\r\n\r\nexport default function SettingsPage() {\r\n  return <SettingsForm />;\r\n}\r\n"],"names":["SettingsPage","SettingsForm"],"mappings":";;;;;;;;;;AAAA;;;AAIe,SAASA;IACtB,qBAAO,8OAACC;;;;;AACV"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///D:/UniveristyLaiba/Flyrank/Assigmnet1/assignment-2/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-ssr']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}
