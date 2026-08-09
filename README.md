@@ -1,16 +1,15 @@
-# Atlas AI OS
+# FLyrank Internship Capstone
 
-Atlas is my personal AI Operating System project.
+Final project for internship
 
 ## Vision
 
-Build an AI-first operating system for managing knowledge, projects, automation, and software development.
+Build an AI assisted project that works decent
 
 ## Current Stack
 
-- TypeScript
-- Node.js
-- PostgreSQL
+- javascript
+- next.js
 - Git
 - VS Code
 
@@ -20,4 +19,4 @@ Build an AI-first operating system for managing knowledge, projects, automation,
 
 ## Goals
 
-Build an AI Operating System from scratch.
+Complete Flyrank Internship.
